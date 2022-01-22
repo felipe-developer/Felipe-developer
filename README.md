@@ -36,9 +36,6 @@ app.listen(3000, () =>{
 
 </div><br>
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-developer&theme=dracula&hide_langs_below=1" />
-</a>
 
 ## **Vamos nos Conectar:**
 
@@ -52,7 +49,5 @@ app.listen(3000, () =>{
    <a target="_blank" href="mailto:luizfelipe.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
-<br>
 
-![Snake animation](https://github.com/Felipe-developer/Felipe-developer/Felipe-developer/Felipe-developer/blob/output/github-contribution-grid-snake.svg)
 
